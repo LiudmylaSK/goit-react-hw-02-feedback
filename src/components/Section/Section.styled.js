@@ -8,9 +8,10 @@ export const Wrapper = styled.section`
 `;
 
 export const SectionTitle = styled.h2`
-  font-size: 36px;
-
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 5px;
+
+  font-size: 36px;
 `;

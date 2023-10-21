@@ -13,8 +13,9 @@ export const Container = styled.div`
 
   max-width: 450px;
 
-  background-color: rgb(155, 242, 242);
-  box-shadow: 7px 6px 6px 3px rgba(66, 20, 66, 0.63);
+  background-color: rgba(111, 78, 55, 0.9);
+
+  box-shadow: 7px 6px 6px 3px rgba(66, 47, 9, 0.4);
 
   border-radius: 5px;
 `;

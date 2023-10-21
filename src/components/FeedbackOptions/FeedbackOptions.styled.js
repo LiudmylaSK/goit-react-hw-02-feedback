@@ -15,10 +15,11 @@ export const Button = styled.button`
 
   border: none;
   border-radius: 5px;
-  color: #00f;
+  color: #000;
+  background-color: #f0d398;
 
   font-size: 20px;
   font-weight: 600;
 
-  box-shadow: 5px 5px 5px 2px rgba(66, 20, 66, 0.63);
+  box-shadow: 5px 5px 5px 2px rgba(66, 47, 9, 0.4);
 `;

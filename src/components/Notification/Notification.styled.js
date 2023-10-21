@@ -9,5 +9,5 @@ export const Notice = styled.h3`
   font-weight: 700;
   font-size: 18px;
 
-  color: #00f;
+  color: #000;
 `;
